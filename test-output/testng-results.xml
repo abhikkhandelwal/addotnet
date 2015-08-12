@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Executing CreateAdvertiserTest]]>
+    </line>
+    <line>
+      <![CDATA[*****************************
+]]>
+    </line>
+    <line>
+      <![CDATA[Enter user, password and click Log in button]]>
+    </line>
+    <line>
+      <![CDATA[Getting unique value using system date]]>
+    </line>
+    <line>
+      <![CDATA[Entering the text in the Password field]]>
+    </line>
+    <line>
+      <![CDATA[Setting the status in the status drop-down field]]>
+    </line>
+    <line>
+      <![CDATA[Entering the text in the Full Name field]]>
+    </line>
+    <line>
+      <![CDATA[Entering the text in the Company field]]>
+    </line>
+    <line>
+      <![CDATA[Entering the text in the Email field]]>
+    </line>
+    <line>
+      <![CDATA[Entering the number in Server 2 server pixel]]>
+    </line>
+    <line>
+      <![CDATA[Entering the text in the Street Address field]]>
+    </line>
+    <line>
+      <![CDATA[Entering the text in the City field]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on the Country drop down]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the Country from the Country drop-down]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on the State drop down]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the State from the State drop-down]]>
+    </line>
+    <line>
+      <![CDATA[Entering the text in the zip code]]>
+    </line>
+    <line>
+      <![CDATA[Entering the text in the Phone]]>
+    </line>
+    <line>
+      <![CDATA[Entering the text in the Street Address field of Contact Info]]>
+    </line>
+    <line>
+      <![CDATA[Entering the text in the City field of Contact Info]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on the Country drop down]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the Country from the Country drop-down]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on the State drop down]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the State from the State drop-down]]>
+    </line>
+    <line>
+      <![CDATA[Entering the text in the Zip field of Contact Info]]>
+    </line>
+    <line>
+      <![CDATA[Entering the text in the Phone Number field of Contact Info]]>
+    </line>
+    <line>
+      <![CDATA[Entering the text in the Fax]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the Billing Type from the Billing Type drop-down]]>
+    </line>
+    <line>
+      <![CDATA[Entering the text in Heard About Us field]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on the Referred By drop down]]>
+    </line>
+    <line>
+      <![CDATA[Selecting the Referred By from the Referred By drop-down]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on the Managers drop down]]>
+    </line>
+    <line>
+      <![CDATA[Selecting Managers from Manager drop down]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on the Account Executives drop down]]>
+    </line>
+    <line>
+      <![CDATA[Selecting Account Executives from Account Executives drop down]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on the Account Access drop down]]>
+    </line>
+    <line>
+      <![CDATA[Selecting Account Access from Account Access drop down]]>
+    </line>
+    <line>
+      <![CDATA[Checking whether Save&Continue button is displayed on the Create Advertiser Page]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on the Save&Continue button on the Create Advertiser page]]>
+    </line>
+    <line>
+      <![CDATA[Checking Advertiser is created or not]]>
+    </line>
+    <line>
+      <![CDATA[ Page is not navigating : Not Created Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Value Mismatch : Not created as Expected]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="164720" started-at="2015-08-12T11:40:24Z" finished-at="2015-08-12T11:43:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="164720" started-at="2015-08-12T11:40:24Z" finished-at="2015-08-12T11:43:08Z">
+      <class name="com.addotnet.automation.CreateAdvertiserTest">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.addotnet.automation.CreateAdvertiserTest@7e0ea639]" name="initialize" is-config="true" duration-ms="14436" started-at="2015-08-12T17:10:09Z" finished-at="2015-08-12T17:10:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="doIHaveToSkip()[pri:0, instance:com.addotnet.automation.CreateAdvertiserTest@7e0ea639]" name="doIHaveToSkip" is-config="true" duration-ms="16" started-at="2015-08-12T17:10:24Z" finished-at="2015-08-12T17:10:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doIHaveToSkip -->
+        <test-method status="PASS" signature="createAdvertiserTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.addotnet.automation.CreateAdvertiserTest@7e0ea639]" name="createAdvertiserTest" duration-ms="164635" started-at="2015-08-12T17:10:24Z" data-provider="getData" finished-at="2015-08-12T17:13:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[testadvonmarch]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[testadvonmarch0001]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[New]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Test Adv On March 0001 ]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Test Company On March]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[testemail0001@yahoo.com]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[#Test Street 0001]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Test City]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[United States Of America]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[Alaska]]>
+              </value>
+            </param>
+            <param index="12">
+              <value>
+                <![CDATA[326199]]>
+              </value>
+            </param>
+            <param index="13">
+              <value>
+                <![CDATA[2046637735]]>
+              </value>
+            </param>
+            <param index="14">
+              <value>
+                <![CDATA[549]]>
+              </value>
+            </param>
+            <param index="15">
+              <value>
+                <![CDATA[2056274566]]>
+              </value>
+            </param>
+            <param index="16">
+              <value>
+                <![CDATA[Credit Card]]>
+              </value>
+            </param>
+            <param index="17">
+              <value>
+                <![CDATA[Unlimited]]>
+              </value>
+            </param>
+            <param index="18">
+              <value>
+                <![CDATA[facebook]]>
+              </value>
+            </param>
+            <param index="19">
+              <value>
+                <![CDATA[Adv 18th March]]>
+              </value>
+            </param>
+            <param index="20">
+              <value>
+                <![CDATA[Aaron Baff]]>
+              </value>
+            </param>
+            <param index="21">
+              <value>
+                <![CDATA[Aaron Baff]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Executing CreateAdvertiserTest]]>
+            </line>
+            <line>
+              <![CDATA[*****************************
+]]>
+            </line>
+            <line>
+              <![CDATA[Enter user, password and click Log in button]]>
+            </line>
+            <line>
+              <![CDATA[Getting unique value using system date]]>
+            </line>
+            <line>
+              <![CDATA[Entering the text in the Password field]]>
+            </line>
+            <line>
+              <![CDATA[Setting the status in the status drop-down field]]>
+            </line>
+            <line>
+              <![CDATA[Entering the text in the Full Name field]]>
+            </line>
+            <line>
+              <![CDATA[Entering the text in the Company field]]>
+            </line>
+            <line>
+              <![CDATA[Entering the text in the Email field]]>
+            </line>
+            <line>
+              <![CDATA[Entering the number in Server 2 server pixel]]>
+            </line>
+            <line>
+              <![CDATA[Entering the text in the Street Address field]]>
+            </line>
+            <line>
+              <![CDATA[Entering the text in the City field]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on the Country drop down]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the Country from the Country drop-down]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on the State drop down]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the State from the State drop-down]]>
+            </line>
+            <line>
+              <![CDATA[Entering the text in the zip code]]>
+            </line>
+            <line>
+              <![CDATA[Entering the text in the Phone]]>
+            </line>
+            <line>
+              <![CDATA[Entering the text in the Street Address field of Contact Info]]>
+            </line>
+            <line>
+              <![CDATA[Entering the text in the City field of Contact Info]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on the Country drop down]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the Country from the Country drop-down]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on the State drop down]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the State from the State drop-down]]>
+            </line>
+            <line>
+              <![CDATA[Entering the text in the Zip field of Contact Info]]>
+            </line>
+            <line>
+              <![CDATA[Entering the text in the Phone Number field of Contact Info]]>
+            </line>
+            <line>
+              <![CDATA[Entering the text in the Fax]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the Billing Type from the Billing Type drop-down]]>
+            </line>
+            <line>
+              <![CDATA[Entering the text in Heard About Us field]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on the Referred By drop down]]>
+            </line>
+            <line>
+              <![CDATA[Selecting the Referred By from the Referred By drop-down]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on the Managers drop down]]>
+            </line>
+            <line>
+              <![CDATA[Selecting Managers from Manager drop down]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on the Account Executives drop down]]>
+            </line>
+            <line>
+              <![CDATA[Selecting Account Executives from Account Executives drop down]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on the Account Access drop down]]>
+            </line>
+            <line>
+              <![CDATA[Selecting Account Access from Account Access drop down]]>
+            </line>
+            <line>
+              <![CDATA[Checking whether Save&Continue button is displayed on the Create Advertiser Page]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on the Save&Continue button on the Create Advertiser page]]>
+            </line>
+            <line>
+              <![CDATA[Checking Advertiser is created or not]]>
+            </line>
+            <line>
+              <![CDATA[ Page is not navigating : Not Created Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Value Mismatch : Not created as Expected]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createAdvertiserTest -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.addotnet.automation.CreateAdvertiserTest@7e0ea639]" name="closeBrowser" is-config="true" duration-ms="2" started-at="2015-08-12T17:13:08Z" finished-at="2015-08-12T17:13:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.addotnet.automation.CreateAdvertiserTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
